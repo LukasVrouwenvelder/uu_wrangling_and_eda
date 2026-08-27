@@ -1,0 +1,4 @@
+data/
+data.zip
+#this instructs git to ignore anthing with data/ as the path, or the entire data.zip file
+#github has a 5mb limit anyways, so this push wouldnt have gone through anyways 
